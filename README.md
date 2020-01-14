@@ -1,1 +1,1 @@
-[https://srerickson.github.io/eoo-bib/]
+https://srerickson.github.io/eoo-bib/
