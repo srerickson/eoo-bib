@@ -5,4 +5,4 @@ nocite: '@*'
 csl: style.csl
 ---
 
-[raw bibtex](eoo.bibtex)
+[bibtex](eoo.bibtex) | [github repo](https://github.com/srerickson/eoo-bib)
